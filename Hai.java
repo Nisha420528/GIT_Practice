@@ -1,1 +1,3 @@
-class Hai{}
+class Hai{
+  int i;
+}
